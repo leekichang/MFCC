@@ -1,1 +1,7 @@
 data/*
+separated data1/*
+audio/*
+runs/*
+scalar/*
+slim_test_set3.csv
+slim_train_set3.csv
