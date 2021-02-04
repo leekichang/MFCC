@@ -3,5 +3,8 @@ separated data1/*
 audio/*
 runs/*
 scalar/*
+separated data2/*
+separated data3/*
+separated data4/*
 slim_test_set3.csv
 slim_train_set3.csv
