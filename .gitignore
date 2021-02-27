@@ -5,6 +5,10 @@ runs/*
 scalar/*
 separated data2/*
 separated data3/*
-separated data4/*
+separated data4(20*1000)/*
 slim_test_set3.csv
 slim_train_set3.csv
+test1_result_table.csv
+result_tables/*
+test_tables/*
+runs/*
